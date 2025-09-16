@@ -62,6 +62,9 @@ git clone https://github.com/vbenjs/vue-vben-admin.git
 
 2. 安装依赖
 
+node >= 18.0.0
+recommended Node.js version >= v22.15.1
+
 ```bash
 cd vue-vben-admin
 npm i -g corepack
